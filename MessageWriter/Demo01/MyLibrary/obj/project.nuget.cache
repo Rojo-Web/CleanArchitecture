@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DdVBXb2hm6m0Gm6QKxiFGKEr+D0ZlGOA7KZAYF9B/C7K1YyLtgCHWm0vLnmqMFgKqo+d1xBOnf+9ZTLG/HSV4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\MessageWriter\\Demo01\\MyLibrary\\MyLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
