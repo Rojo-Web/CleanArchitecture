@@ -1,1 +1,1 @@
-FileWriter: 14/10/2024 9:47:32 a. m.,System,Aplication StartedFileWriter: 14/10/2024 9:47:32 a. m.,Demo,Created: Azucar refinada
+FileWriter: 14/10/2024 9:47:32 a. m.,System,Aplication StartedFileWriter: 14/10/2024 9:47:32 a. m.,Demo,Created: Azucar refinadaFileWriter: 14/10/2024 10:03:49 a. m.,System,Application startedFileWriter: 14/10/2024 10:03:49 a. m.,Demo,Created: Azucar refinadaFileWriter: 14/10/2024 10:15:13 a. m.,System,Application startedFileWriter: 14/10/2024 10:15:13 a. m.,Demo,Created: Azucar refinada

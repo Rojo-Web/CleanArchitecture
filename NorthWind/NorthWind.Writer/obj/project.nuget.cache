@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PssXZAbfdrLe3BXs03oHfP18gF9HeE2eJWiNcVMI9D6OND6dk3RAbdK6Y2hSL+/DbYUC7q3Pr82tXKtWcvJqBg==",
+  "dgSpecHash": "cuEDbQD47L9y4CfQV7vMGttCnaBP5lcTnjl+0ReBqVPG247KVR4DZXWAP0Faf0Idxb8H0MBgOPGgCL08kN2K+w==",
   "success": true,
   "projectFilePath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Writer\\NorthWind.Writer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

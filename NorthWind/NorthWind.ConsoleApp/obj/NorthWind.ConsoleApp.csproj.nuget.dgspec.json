@@ -36,8 +36,8 @@
               "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj": {
                 "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj"
               },
-              "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Writer\\NorthWind.Writer.csproj": {
-                "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Writer\\NorthWind.Writer.csproj"
+              "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Ioc\\NorthWind.Ioc.csproj": {
+                "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Ioc\\NorthWind.Ioc.csproj"
               }
             }
           }
@@ -54,6 +54,85 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj",
+        "projectName": "NorthWind.Core",
+        "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+                "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -137,6 +216,76 @@
         }
       }
     },
+    "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Ioc\\NorthWind.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Ioc\\NorthWind.Ioc.csproj",
+        "projectName": "NorthWind.Ioc",
+        "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Ioc\\NorthWind.Ioc.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj": {
+                "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj"
+              },
+              "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Writer\\NorthWind.Writer.csproj": {
+                "projectPath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Writer\\NorthWind.Writer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Writer\\NorthWind.Writer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -184,6 +333,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

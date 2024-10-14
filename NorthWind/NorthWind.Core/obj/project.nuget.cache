@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KmcnVxJaw8rIsNlMbYPbXToW9pSDjGDgOFQZSaPozrx0OpZwHzq+83CPo1tMEhYdWkaGNh/hNNxqP9HXgTnC8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Sexto semestre\\Riesgos de sitemas informaticos\\Consolidado 2\\Taller\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
