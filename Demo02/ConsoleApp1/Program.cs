@@ -1,10 +1,22 @@
-﻿namespace ConsoleApp1
+﻿using MyLibrary;
+
+Secretary Maria = new Secretary();
+Maria.Name = "Maria";
+
+Manager Pedro = new Manager();
+Pedro.Name = "Pedro";
+
+Developer Miguel = new Developer();
+Miguel.Name = "Miguel";
+
+WriteEmployeeInfo(Maria);
+WriteEmployeeInfo(Pedro);
+WriteEmployeeInfo(Miguel);
+
+
+
+void WriteEmployeeInfo(Employee employee)
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
+    Console.WriteLine($"{employee.Name}: {employee.CalculaMonthlyPayment()}");
+    Console.WriteLine($"Days: {employee.GetPaymentDays()}");
 }
