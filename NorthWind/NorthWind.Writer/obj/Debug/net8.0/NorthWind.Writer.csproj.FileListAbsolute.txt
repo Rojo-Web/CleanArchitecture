@@ -1,0 +1,16 @@
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\bin\Debug\net8.0\NorthWind.Writer.deps.json
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\bin\Debug\net8.0\NorthWind.Writer.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\bin\Debug\net8.0\NorthWind.Writer.pdb
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\bin\Debug\net8.0\NorthWind.Entities.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\bin\Debug\net8.0\NorthWind.Entities.pdb
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.csproj.AssemblyReference.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.AssemblyInfoInputs.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.AssemblyInfo.cs
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.csproj.CoreCompileInputs.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.sourcelink.json
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.csproj.CopyComplete
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\refint\NorthWind.Writer.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\NorthWind.Writer.pdb
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writer\obj\Debug\net8.0\ref\NorthWind.Writer.dll

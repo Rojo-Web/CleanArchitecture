@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NorthWind.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "NorthWind.Entities": "1.0.0",
+          "NorthWind.Writer": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.ConsoleApp.dll": {}
+        }
+      },
+      "NorthWind.Entities/1.0.0": {
+        "runtime": {
+          "NorthWind.Entities.dll": {}
+        }
+      },
+      "NorthWind.Writer/1.0.0": {
+        "dependencies": {
+          "NorthWind.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.Writer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthWind.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthWind.Writer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

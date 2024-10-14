@@ -1,0 +1,6 @@
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.AssemblyReference.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfoInputs.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfo.cs
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.CoreCompileInputs.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.sourcelink.json

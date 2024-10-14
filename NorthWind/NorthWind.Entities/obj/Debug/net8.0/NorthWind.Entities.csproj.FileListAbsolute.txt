@@ -1,0 +1,12 @@
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\bin\Debug\net8.0\NorthWind.Entities.deps.json
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\bin\Debug\net8.0\NorthWind.Entities.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\bin\Debug\net8.0\NorthWind.Entities.pdb
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.AssemblyInfoInputs.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.AssemblyInfo.cs
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.csproj.CoreCompileInputs.cache
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.sourcelink.json
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\refint\NorthWind.Entities.dll
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.pdb
+D:\Sexto semestre\Riesgos de sitemas informaticos\Consolidado 2\Taller\NorthWind\NorthWind.Entities\obj\Debug\net8.0\ref\NorthWind.Entities.dll
